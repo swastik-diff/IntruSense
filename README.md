@@ -35,6 +35,16 @@ Traditional Security:  🏰 Build walls → Hope attackers bounce off
 IntruSense:            🪤 Plant traps → Catch attackers in the act
 ```
 
+## 🌐 🔴 Live Product Access
+
+> *Try it yourself — no setup needed*
+
+🚀 **Landing Page**  
+👉 https://intrusense-rose.vercel.app  
+
+📊 **Live Dashboard**  
+👉 https://intrusense-rose.vercel.app/dashboard  
+
 ---
 
 ## 📸 Screenshots
