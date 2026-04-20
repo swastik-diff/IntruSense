@@ -6,9 +6,9 @@ export default defineConfig({
   server: {
     port: 5173,
     proxy: {
-      '/api': 'https://YOUR-APP.up.railway.app',
+      '/api': 'https://intrusense-production-fc94.up.railway.app,
       '/socket.io': {
-        target: 'https://YOUR-APP.up.railway.app',
+        target: 'https://intrusense-production-fc94.up.railway.app',
         ws: true,
       },
     },
