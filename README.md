@@ -13,13 +13,6 @@
 
 ### *They think they found something. We know exactly who they are.*
 
-<br/>
-
-[![Live Demo](https://img.shields.io/badge/▶_LIVE_DEMO-FF3B2F?style=for-the-badge&logoColor=white)]((https://intrusense-rose.vercel.app/))
-[![Watch Pitch](https://img.shields.io/badge/📺_WATCH_PITCH-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]((https://youtu.be/Ha1AR0Ly7Lk?si=uv_iGAaBpOIKVltC))
-[![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](LICENSE)
-
-<br/>
 
 > **CS 007 Hackathon Entry** — Deception-Based Intrusion Detection for Small Businesses
 
