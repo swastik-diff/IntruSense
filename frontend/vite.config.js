@@ -6,12 +6,9 @@ export default defineConfig({
   server: {
     port: 5173,
     proxy: {
-      '/api': {
-        target: 'http://localhost:3000',
-        changeOrigin: true,
-      },
+      '/api': 'https://YOUR-APP.up.railway.app',
       '/socket.io': {
-        target: 'http://localhost:3000',
+        target: 'https://YOUR-APP.up.railway.app',
         ws: true,
       },
     },
