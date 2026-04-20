@@ -348,17 +348,6 @@ Phase 4 (12 months)
 
 ---
 
-## 👥 Team
-
-> Built at **[Hackathon Name]** — CS 007 Problem Statement
-
-| Role | Name |
-|---|---|
-| Full Stack + Architecture | [Your Name] |
-| Frontend + UX | [Team Member] |
-| Backend + Security | [Team Member] |
-
----
 
 ## 📜 License
 
@@ -378,10 +367,6 @@ We know their IP, country, ISP, tools, and every move they've made.
 **Built with 🔴 to protect those who can't afford to be breached.**
 
 <br/>
-
-[![⭐ Star this repo](https://img.shields.io/github/stars/your-org/intrusense?style=for-the-badge&color=FF3B2F)](https://github.com/your-org/intrusense)
-[![🍴 Fork it](https://img.shields.io/github/forks/your-org/intrusense?style=for-the-badge&color=1a1a2e)](https://github.com/your-org/intrusense/fork)
-
 <br/>
 
 *IntruSense — Because the best security isn't a wall. It's a trap.*
