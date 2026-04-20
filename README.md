@@ -43,7 +43,7 @@ IntruSense:            🪤 Plant traps → Catch attackers in the act
 > *Cinematic dark UI with animated threat visualization*
 
 <!-- Replace with actual screenshot -->
-![Landing Page](./docs/screenshots/landing.png)
+![Landing Page](./docs/landing.png)
 
 > **What you see:** Custom cursor, animated particle field, real-time threat counter, smooth section transitions, and a live demo embedded in the hero section.
 
@@ -53,7 +53,7 @@ IntruSense:            🪤 Plant traps → Catch attackers in the act
 > *Real-time attacker profiling, world threat map, AI-powered summaries*
 
 <!-- Replace with actual screenshot -->
-![Dashboard](./docs/screenshots/dashboard.png)
+![Dashboard](./docs/dashboard.png)
 
 > **What you see:** Live Socket.io feed of attacker events, interactive Leaflet.js world map with threat pins, per-attacker profiles with threat scores (0–100), AI plain-English explanations, and smart grouped notifications.
 
@@ -63,7 +63,7 @@ IntruSense:            🪤 Plant traps → Catch attackers in the act
 > *Local LAN attackers plotted on Kolkata, external threats geolocated globally*
 
 <!-- Replace with actual screenshot -->
-![Threat Map](./docs/screenshots/map.png)
+![Threat Map](./docs/map.png)
 
 ---
 
