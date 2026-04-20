@@ -10,8 +10,8 @@ export default defineConfig({
       '/socket.io': {
         target: 'https://intrusense-production-fc94.up.railway.app',
         ws: true,
-        changeOrigin: true
-      }
-    }
-  }
+        changeOrigin: true,
+      },
+    },
+  },
 })
